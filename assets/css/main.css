@@ -1468,6 +1468,13 @@ input, select, textarea {
 				#header .logo .icon:before {
 					font-size: 1.75rem;
 				}
+            .circular--portrait {
+              position: relative;
+              width: 4.75rem;
+			  height: 4.75rem;
+              overflow: hidden;
+              border-radius: 50%;
+            }
 
 			#header .content .inner {
 				padding: 2.5rem 1rem;
