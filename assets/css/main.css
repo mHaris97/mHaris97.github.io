@@ -1470,8 +1470,8 @@ input, select, textarea {
 				}
             .circular--portrait {
               position: relative;
-              width: 4.75rem;
-			  height: 4.75rem;
+              width: 4.65rem;
+			  height: 4.65rem;
               overflow: hidden;
               border-radius: 50%;
             }
